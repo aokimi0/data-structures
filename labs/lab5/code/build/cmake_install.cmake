@@ -1,4 +1,4 @@
-# Install script for directory: D:/Code/Projects/Project-Assignment/Data-Structures/lab5
+# Install script for directory: D:/Code/Projects/project-assignments/data-structures/labs/lab5/code
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "D:/Code/Projects/Project-Assignment/Data-Structures/lab5/build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "D:/Code/Projects/project-assignments/data-structures/labs/lab5/code/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

@@ -68,7 +68,8 @@ B树的表示及基本操作的实现：
 
 ### lab6(hash table)
 
-*pending addition*
+用两种不同的哈希构造函数实现HashTable，插入一篇文章的单词，查找另一篇文章中的单词，比较两种方式的平均查找长度。
+
 
 ## experience
 

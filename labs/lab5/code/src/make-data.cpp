@@ -3,8 +3,9 @@
 using namespace std;
 
 int main(){
-    freopen("in1.txt","w",stdout);
-    int n = 100, m = 4, k = 3;
+    freopen("in2.txt","w",stdout);
+    srand(time(0));
+    int n = 100, m = 4, k = 2;
     cout << n << ' ' << m <<' '<< k << endl;
     for(int i = 0; i < n; ++ i){
         string s = "";

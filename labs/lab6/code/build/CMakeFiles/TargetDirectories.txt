@@ -1,0 +1,3 @@
+D:/Code/Projects/project-assignments/data-structures/labs/lab6/code/build/CMakeFiles/main.dir
+D:/Code/Projects/project-assignments/data-structures/labs/lab6/code/build/CMakeFiles/edit_cache.dir
+D:/Code/Projects/project-assignments/data-structures/labs/lab6/code/build/CMakeFiles/rebuild_cache.dir

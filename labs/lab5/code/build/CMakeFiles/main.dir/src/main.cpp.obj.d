@@ -1,5 +1,5 @@
 CMakeFiles/main.dir/src/main.cpp.obj: \
- D:\Code\Projects\Project-Assignment\Data-Structures\lab5\src\main.cpp \
+ D:\Code\Projects\project-assignments\data-structures\labs\lab5\code\src\main.cpp \
  c:\mingw\include\c++\11.2.0\x86_64-w64-mingw32\bits\stdc++.h \
  c:\mingw\include\c++\11.2.0\cassert \
  c:\mingw\include\c++\11.2.0\x86_64-w64-mingw32\bits\c++config.h \

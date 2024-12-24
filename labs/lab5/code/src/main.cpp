@@ -5,8 +5,6 @@ const int N = 105;
 int n, m, k;
 int a[N];
 int main(){
-    freopen("in1.txt","r",stdin);
-    freopen("out1.txt","w",stdout);
     cin >> n >> m >> k;
     int ans = 0;
     int tot = 0;
@@ -22,7 +20,7 @@ int main(){
                 ++ cnt;
             }
         }
-        if(k >= m - cnt)
+        if(k >= m - cnt && (k&1) == ((m - cnt) & 1))
             a[tot++] = x;
     }
     sort(a, a + tot);
