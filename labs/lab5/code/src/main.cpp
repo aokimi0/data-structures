@@ -9,13 +9,13 @@ int main(){
     int ans = 0;
     int tot = 0;
     for(int i = 0; i < n; ++ i){
-        string s;
-        cin >> s;
         int x = 0;
         int cnt = 0;
         for(int j = 0; j < m ; ++ j){
+            char ch;
+            cin >> ch;
             x <<= 1;
-            if(s[j] == '1'){
+            if(ch == '1'){
                 x |= 1;
                 ++ cnt;
             }
@@ -43,10 +43,10 @@ int main(){
 }
 /*
 6 5 3
-10010
-11000
-01110
-00011
-10101
-11000
+1 0 0 1 0
+1 1 0 0 0
+0 1 1 1 0
+0 0 0 1 1
+1 0 1 0 1
+1 1 0 0 0
 */
