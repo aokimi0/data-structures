@@ -42,7 +42,7 @@ B树的表示及基本操作的实现：
 
 效果图：
 
-![4阶B-tree图形化实现](labs\lab3\1.jpg)
+![4阶B-tree图形化实现](./labs/lab3/1.jpg)
 
 ### lab4(bfs for "金属融化时间")
 
